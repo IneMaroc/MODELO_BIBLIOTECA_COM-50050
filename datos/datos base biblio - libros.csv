@@ -1,0 +1,100 @@
+id_libros,titulo,isbn,cant_paginas,fecha_publi,id_editorial
+1,Harry Potter and the Half-Blood Prince,9780439785969,652,9/16/2006,1
+2,Harry Potter and the Order of the Phoenix,9780439358071,870,09/01/2004,1
+3,Harry Potter and the Chamber of Secrets,9780439554893,352,11/01/2003,2
+4,Harry Potter and the Prisoner of Azkaban,9780439655484,435,05/01/2004,1
+5,Harry Potter Boxed Set  Books 1-5,9780439682589,2690,9/13/2004,2
+6,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",9780976540601,152,4/26/2005,3
+7,Harry Potter Collection,9780439827607,3342,9/12/2005,2
+8,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story,9780517226957,815,11/01/2005,4
+9,The Ultimate Hitchhiker's Guide to the Galaxy,9780345453747,815,4/30/2002,5
+10,The Hitchhiker's Guide to the Galaxy,9781400052929,215,08/03/2004,6
+11,The Hitchhiker's Guide to the Galaxy,9780739322208,6,3/23/2005,7
+12,The Ultimate Hitchhiker's Guide,9780517149256,815,1/17/1996,8
+13,A Short History of Nearly Everything,9780767908184,544,9/14/2004,9
+14,Bill Bryson's African Diary,9780767915069,55,12/03/2002,9
+15,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,9780767910439,256,9/14/2004,9
+16,In a Sunburned Country,9780767903868,335,5/15/2001,9
+17,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,9780767903820,304,6/28/2000,9
+18,The Lost Continent: Travels in Small Town America,9780060920081,299,8/28/1990,10
+19,Neither Here nor There: Travels in Europe,9780380713806,254,3/28/1993,10
+20,Notes from a Small Island,9780380727506,324,5/28/1997,10
+21,The Mother Tongue: English and How It Got That Way,9780380715435,270,9/28/1991,10
+22,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,9780345538376,1728,9/25/2012,11
+23,The Lord of the Rings (The Lord of the Rings  #1-3),9780618517657,1184,10/21/2004,12
+24,The Fellowship of the Ring (The Lord of the Rings  #1),9780618346257,398,09/05/2003,12
+25,The Lord of the Rings (The Lord of the Rings  #1-3),9780618260584,1216,10/01/2002,12
+26,The Lord of the Rings: Weapons and Warfare,9780618391004,218,11/05/2003,12
+27,The Lord of the Rings: Complete Visual Companion,9780618510825,224,11/15/2004,12
+28,Agile Web Development with Rails: A Pragmatic Guide,9780976694007,558,7/28/2005,13
+29,Hatchet,9780689840920,208,04/01/2000,14
+30,"Hatchet: A Guide for Using ""Hatchet"" in the Classroom",9781557344496,48,8/28/1994,15
+31,Guts: The True Stories behind Hatchet and the Brian Books,9780385326506,144,1/23/2001,16
+32,Molly Hatchet - 5 of the Best,9781575606248,56,6/10/2003,17
+33,Hatchet Jobs: Writings on Contemporary Fiction,9781595580276,228,11/01/2005,18
+34,A Changeling for All Seasons (Changeling Seasons #1),9781595962805,304,11/01/2005,19
+35,Changeling (Changeling  #1),9780670059676,256,8/17/2006,20
+36,The Changeling Sea,9780141312620,137,4/14/2003,21
+37,The Changeling,9780595321803,228,06/08/2004,22
+38,The Changeling,9781590301944,339,4/12/2005,23
+39,The Changeling (Daughters of England  #15),9780449146972,369,8/28/1990,24
+40,The Known World,9780061159176,388,8/29/2006,25
+41,The Known World,9780060762735,14,6/15/2004,26
+42,The Known World,9780060749910,576,6/15/2004,27
+43,Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives,9780273704744,334,5/15/2006,28
+44,Artesia: Adventures in the Known World,9781932386103,352,12/14/2005,29
+45,The John McPhee Reader (John McPhee Reader  #1),9780374517199,416,06/01/1982,30
+46,Uncommon Carriers,9780374280390,248,5/16/2006,31
+47,Heirs of General Practice,9780374519742,128,04/01/1986,30
+48,The Control of Nature,9780374522599,288,09/01/1990,30
+49,Annals of the Former World,9780374518738,720,01/06/1999,30
+50,Coming Into the Country,9780374522872,448,04/01/1991,30
+51,La Place de la Concorde Suisse,9780374519322,160,04/01/1994,30
+52,Giving Good Weight,9780374516000,288,04/01/1994,30
+53,Rising from the Plains,9780374520656,208,11/01/1987,30
+54,The Heidi Chronicles,9780822205104,81,03/01/2002,32
+55,The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,9780679734994,249,07/02/1991,33
+56,Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening,9781596670235,138,3/29/2006,34
+57,Simply Beautiful Beaded Jewelry,9781581807745,128,3/14/2006,35
+58,Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,9780800793616,192,09/01/2003,36
+59,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,9780871202864,108,1/28/1997,37
+60,Heidi (Heidi  #1-2),9780753454947,352,11/15/2002,38
+61,Getting Results with Curriculum Mapping,9780871209993,192,11/15/2004,39
+62,There's Always Enough: The Miraculous Move of God in Mozambique,9781852402877,192,4/28/2003,40
+63,What to Expect the First Year (What to Expect),9780761129585,832,10/16/2003,41
+64,The Player's Handbook: The Ultimate Guide on Dating and Relationships,9780972016414,123,5/10/2004,42
+65,Simply Beautiful Beading: 53 Quick and Easy Projects,9781581805635,128,8/19/2004,35
+66,God Emperor of Dune (Dune Chronicles  #4),9780441294671,423,6/15/1987,43
+67,Chapterhouse: Dune (Dune Chronicles #6),9780441102679,436,07/01/1987,43
+68,Dune Messiah (Dune Chronicles #2),9780441172696,331,7/15/1987,43
+69,Dreamer of Dune: The Biography of Frank Herbert,9780765306470,592,07/01/2004,44
+70,Heretics of Dune (Dune Chronicles  #5),9780399128981,480,4/16/1984,45
+71,The Road to Dune,9780765353702,426,8/29/2006,46
+72,Heretics of Dune (Dune Chronicles #5),9780441328000,471,8/15/1987,43
+73,The Lord of the Rings: The Art of the Fellowship of the Ring,9780618212903,192,6/12/2002,12
+74,The Power of One (The Power of One  #1),9780345410054,544,9/29/1996,11
+75,The Power of One (The Power of One  #1),9780385732543,291,9/13/2005,47
+76,The Power of One: One Person  One Rule  One Month,9780785260059,256,11/01/2004,48
+77,Power of an Hour: Business and Life Mastery in One Hour a Week,9780471780939,205,5/19/2006,49
+78,The Power of One: The Solo Play for Playwrights  Actors  and Directors,9780325001531,240,02/07/2000,50
+79,How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days,9780060762872,336,05/03/2005,10
+80,eBay for Dummies,9780470045299,386,10/30/2006,49
+81,What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,9780072262780,260,1/24/2006,51
+82,Starting an eBay Business for Dummies,9780764569241,384,9/17/2004,49
+83,eBay: Top 100 Simplified Tips & Tricks,9780471933823,260,06/06/2006,49
+84,ebay Timesaving Techniques for Dummies,9780764559914,391,5/31/2004,49
+85,eBay Business All-in-One Desk Reference for Dummies,9780764584381,864,4/25/2005,49
+86,Ruby Cookbook,9780596523695,873,7/29/2006,52
+87,Ruby Ann's Down Home Trailer Park Cookbook,9780806523491,240,05/03/2005,53
+88,Ruby Ann's Down Home Trailer Park BBQin' Cookbook,9780806525365,206,05/03/2005,53
+89,Rails Cookbook: Recipes for Rapid Web Development with Ruby,9780596527310,514,01/01/2007,52
+90,Anna Karenina,9780143035008,838,5/31/2004,54
+91,Anna Karenina,9780451528612,960,11/05/2002,55
+92,Anna Karenina,9780140449174,837,1/30/2003,56
+93,CliffsNotes on Tolstoy's Anna Karenina,9780822001836,80,11/26/1965,57
+94,Anna Karenina,9781593080273,803,07/01/2003,58
+95,Anna Karenina,9780486437965,752,11/23/2004,59
+96,Anna Karenina,9781593081775,803,8/26/2004,60
+97,Dinner with Anna Karenina,9780778322276,360,1/28/2006,61
+98,Tolstoy: Anna Karenina,9780521313254,128,11/26/1987,62
+99,Untouchable,9780140183955,160,07/03/1990,56
